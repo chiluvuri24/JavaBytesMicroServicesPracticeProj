@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related PROD APIs "
+  contactDetails:
+    name: " Aishwarya- QA"
+    email: "aishwarya@eazybank.com"
+  onCallSupport:
+    - (111) 589-1234
+    - (111) 543-1345

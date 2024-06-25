@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank loans related Prod APIs "
+  contactDetails:
+    name: "Ram - MD"
+    email: "ram@eazybank.com"
+  onCallSupport:
+    - (888) 456-2176
+    - (999) 764-8934
