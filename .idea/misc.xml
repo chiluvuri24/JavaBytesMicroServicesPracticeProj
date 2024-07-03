@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/V1-springBoot/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/V1-springBoot/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/V1-springBoot/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section7 - MySQL/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section7 - MySQL/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section7 - MySQL/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section7 - MySQL/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section4 - Docker/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section4 - Docker/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section4 - Docker/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/V2-spring-cloud-config/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/V2-spring-cloud-config/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/V2-spring-cloud-config/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/V2-spring-cloud-config/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section8 - Service Discoverey/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section8 - Service Discoverey/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section8 - Service Discoverey/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Section8 - Service Discoverey/configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/Section8 - Service Discoverey/eurekaserver/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
