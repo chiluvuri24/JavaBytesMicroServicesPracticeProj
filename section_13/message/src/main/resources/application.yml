@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: "message"
+  cloud:
+    function:
+      definition: email|sms
+    stream:
+      bindings:
+        emailsms-in-0:
+          destination: send-communication
+            group: ${spring.application.name}
+
+server:
+  port: 9010
